@@ -1,0 +1,6 @@
+{
+  "name": "Play&Pay",
+  "description": "Plataforma de videos cortos donde ganas dinero real ($5 netos mínimo por video, bono de $500 y $200 por invitado) con retiros rápidos a Mercado Pago y PayPal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
